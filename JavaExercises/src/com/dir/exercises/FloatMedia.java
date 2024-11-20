@@ -1,4 +1,4 @@
-package com.dir.compareMedia;
+package com.dir.exercises;
 
 import java.util.Scanner; 
 

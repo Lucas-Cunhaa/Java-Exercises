@@ -1,4 +1,4 @@
-package com.dir.simplecount;
+package com.dir.exercises;
 
 /**
  * Laboratório de Programação 2 - Lab 1
