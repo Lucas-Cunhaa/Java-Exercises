@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Laboratório de Programação 2 - Lab 1
  * 
- * @author Lucas Cunha Galvao Florindo - 124110714
+ * 
  */
 
 
@@ -13,7 +13,6 @@ public class Calculator {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String operator = sc.nextLine();
-		
 		
 		if (!"+".equals(operator) && !"-".equals(operator) && !"/".equals(operator) && !"*".equals(operator)) {
 			System.out.println("ENTRADA INVALIDA");
