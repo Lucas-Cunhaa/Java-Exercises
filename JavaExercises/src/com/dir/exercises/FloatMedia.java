@@ -21,5 +21,7 @@ public class FloatMedia {
 		
 		
 		System.out.println("pass: " + state);
+		
+		sc.close();
 	}
 }

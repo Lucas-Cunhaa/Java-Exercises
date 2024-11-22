@@ -22,6 +22,8 @@ public class MonotonusFunction {
 		}
 		
 		System.out.println(state);
+		
+		sc.close();
 	}
 		
 	

@@ -14,6 +14,8 @@ public class LendoUmByte {
 		int ent = sc.nextInt();
 		
 		System.out.println("dobro: " + ent * 2 + ", " + "triplo: " + ent * 3); 
+		
+		sc.close();
 	}
 }
 

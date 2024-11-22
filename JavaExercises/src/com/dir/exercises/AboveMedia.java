@@ -29,5 +29,7 @@ public class AboveMedia {
         }
 
         System.out.println(result);
+        
+        sc.close();
     }
 }
